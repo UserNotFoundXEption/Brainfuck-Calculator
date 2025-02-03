@@ -14,4 +14,4 @@ Such minimalistic language requires a high level of attention to detail and memo
 
 As a form of challenge, I made a simple calculator in brainfuck. In order to do so, I had to write and carefully describe each function and then put these pieces together.
 
-To run it correctly, use this interpreter: https://github.com/MohammedRashad/Brainfuck-Interpreter
+To run it correctly, use interpreter with 2-side/wrapping vector and larger cells.
